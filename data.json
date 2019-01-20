@@ -1,0 +1,30 @@
+[
+  {
+    "id": "8658c1d0",
+    "title": "Ocean Blue",
+    "color": "#0070ff",
+    "rating": 3,
+    "timestamp": "Sat Mar 12 2016 16:12:09 GMT-0800 (PST)"
+  },
+  {
+    "id": "f9005b4e",
+    "title": "Tomato",
+    "color": "#d10012",
+    "rating": 2,
+    "timestamp": "Fri Mar 11 2016 12:00:00 GMT-0800 (PST)"
+  },
+  {
+    "id": "58d9caee",
+    "title": "Lawn",
+    "color": "#67bf4f",
+    "rating": 1,
+    "timestamp": "Thu Mar 10 2016 01:11:12 GMT-0800 (PST)"
+  },
+  {
+    "id": "a5685c39",
+    "title": "Party Pink",
+    "color": "#ff00f7",
+    "rating": 5,
+    "timestamp": "Wed Mar 9 2016 03:26:00 GMT-0800 (PST)"
+  }
+]
