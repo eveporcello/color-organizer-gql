@@ -79,7 +79,8 @@ const resolvers = {
 
 const server = new ApolloServer({
   typeDefs,
-  resolvers
+  resolvers,
+  playground: true
 });
 
 server.listen().then(({ url }) => console.log(`Server Running on ${url}`));
